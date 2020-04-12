@@ -87,3 +87,4 @@
 ## 2020-01-12 16:45:58 - feat(ci): create ci handler (19/20)
 ## 2020-01-26 10:53:45 - feat(alert): add alert endpoint (3/20)
 ## 2020-02-08 18:49:43 - feat(test): implement test module (16/20)
+## 2020-04-12 23:09:46 - feat(core): add core endpoint (15/20)
