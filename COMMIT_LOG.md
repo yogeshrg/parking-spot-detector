@@ -88,3 +88,4 @@
 ## 2020-01-26 10:53:45 - feat(alert): add alert endpoint (3/20)
 ## 2020-02-08 18:49:43 - feat(test): implement test module (16/20)
 ## 2020-04-12 23:09:46 - feat(core): add core endpoint (15/20)
+## 2020-05-16 18:32:03 - feat(security): add security endpoint (5/20)
