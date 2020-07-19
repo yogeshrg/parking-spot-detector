@@ -5,3 +5,4 @@
 ## 2020-04-12 23:09:46 - feat(core): add core endpoint (15/20)
 ## 2020-05-16 18:32:03 - feat(security): add security endpoint (5/20)
 ## 2020-06-14 15:40:15 - feat(api): implement api feature (15/20)
+## 2020-07-19 18:31:13 - feat(data): add data support (7/20)
