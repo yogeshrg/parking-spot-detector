@@ -176,3 +176,4 @@
 ## 2020-05-16 18:32:03 - feat(security): add security endpoint (5/20)
 ## 2020-06-14 15:40:15 - feat(api): implement api feature (15/20)
 ## 2020-07-19 18:31:13 - feat(data): add data support (7/20)
+## 2020-07-26 14:12:12 - feat(api): create api handler (7/20)
