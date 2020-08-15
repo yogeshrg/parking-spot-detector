@@ -262,3 +262,4 @@
 ## 2020-06-14 15:40:15 - feat(api): implement api feature (15/20)
 ## 2020-07-19 18:31:13 - feat(data): add data support (7/20)
 ## 2020-07-26 14:12:12 - feat(api): create api handler (7/20)
+## 2020-08-15 10:26:26 - feat(infra): implement infra module (10/20)
