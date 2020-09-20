@@ -95,3 +95,4 @@
 ## 2020-08-15 10:26:26 - feat(infra): implement infra module (10/20)
 ## 2020-08-16 22:35:42 - feat(alert): add alert support (8/20)
 ## 2020-08-22 11:09:30 - feat(ui): add ui support (17/20)
+## 2020-09-20 16:40:11 - feat(ci): implement ci module (2/20)
