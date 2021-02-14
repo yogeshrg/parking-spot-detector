@@ -12,3 +12,4 @@
 ## 2020-08-22 11:09:30 - feat(ui): add ui support (17/20)
 ## 2020-09-20 16:40:11 - feat(ci): implement ci module (2/20)
 ## 2021-01-02 15:55:37 - feat(test): add test support (14/20)
+## 2021-02-14 10:28:44 - feat(deploy): create deploy handler (13/20)
