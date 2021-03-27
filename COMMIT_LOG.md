@@ -183,3 +183,4 @@
 ## 2020-09-20 16:40:11 - feat(ci): implement ci module (2/20)
 ## 2021-01-02 15:55:37 - feat(test): add test support (14/20)
 ## 2021-02-14 10:28:44 - feat(deploy): create deploy handler (13/20)
+## 2021-03-27 13:13:46 - feat(auth): add auth support (11/20)
