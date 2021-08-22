@@ -102,3 +102,4 @@
 ## 2021-05-08 12:37:33 - feat(ui): implement ui feature (8/20)
 ## 2021-06-27 17:36:24 - feat(log): implement log feature (14/20)
 ## 2021-07-17 16:57:12 - feat(deploy): add deploy support (7/20)
+## 2021-08-22 11:48:09 - feat(model): add model endpoint (18/20)
