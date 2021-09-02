@@ -19,3 +19,4 @@
 ## 2021-07-17 16:57:12 - feat(deploy): add deploy support (7/20)
 ## 2021-08-22 11:48:09 - feat(model): add model endpoint (18/20)
 ## 2021-08-29 14:38:43 - feat(security): add security support (19/20)
+## 2021-09-02 14:04:36 - feat(alert): implement alert module
