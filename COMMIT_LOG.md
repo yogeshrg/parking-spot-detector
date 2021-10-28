@@ -192,3 +192,4 @@
 ## 2021-09-02 14:04:36 - feat(alert): implement alert module
 ## 2021-09-11 11:29:15 - feat(test): add test endpoint (11/20)
 ## 2021-10-17 20:00:49 - feat(core): implement core module (17/20)
+## 2021-10-28 10:43:53 - feat(queue): create queue handler
