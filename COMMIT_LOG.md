@@ -278,3 +278,4 @@
 ## 2021-09-11 11:29:15 - feat(test): add test endpoint (11/20)
 ## 2021-10-17 20:00:49 - feat(core): implement core module (17/20)
 ## 2021-10-28 10:43:53 - feat(queue): create queue handler
+## 2021-11-20 17:52:12 - feat(api): add api endpoint (13/20)
