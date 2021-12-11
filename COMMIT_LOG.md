@@ -195,3 +195,4 @@
 ## 2021-10-28 10:43:53 - feat(queue): create queue handler
 ## 2021-11-20 17:52:12 - feat(api): add api endpoint (13/20)
 ## 2021-12-05 13:45:29 - feat(api): add api endpoint (7/20)
+## 2021-12-11 09:26:14 - feat(infra): add infra endpoint (18/20)
