@@ -34,3 +34,4 @@
 ## 2022-06-26 10:00:33 - feat(build): add build support (9/20)
 ## 2022-08-09 12:07:54 - feat(api): create api handler
 ## 2022-09-10 23:15:44 - feat(log): create log handler (6/20)
+## 2022-09-17 16:20:54 - feat(deploy): add deploy support (7/20)
