@@ -121,3 +121,4 @@
 ## 2022-09-10 23:15:44 - feat(log): create log handler (6/20)
 ## 2022-09-17 16:20:54 - feat(deploy): add deploy support (7/20)
 ## 2022-10-30 09:10:45 - feat(config): implement config module (2/20)
+## 2022-11-06 22:47:25 - feat(infra): add infra endpoint (13/20)
