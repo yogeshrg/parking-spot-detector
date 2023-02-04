@@ -37,3 +37,4 @@
 ## 2022-09-17 16:20:54 - feat(deploy): add deploy support (7/20)
 ## 2022-10-30 09:10:45 - feat(config): implement config module (2/20)
 ## 2022-11-06 22:47:25 - feat(infra): add infra endpoint (13/20)
+## 2023-02-04 22:49:59 - feat(metric): implement metric feature (7/20)
