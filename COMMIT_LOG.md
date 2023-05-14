@@ -125,3 +125,4 @@
 ## 2023-02-04 22:49:59 - feat(metric): implement metric feature (7/20)
 ## 2023-02-18 09:00:50 - feat(security): implement security module (11/20)
 ## 2023-03-25 11:51:49 - feat(infra): add infra endpoint (4/20)
+## 2023-05-14 11:50:34 - feat(alert): implement alert module (15/20)
