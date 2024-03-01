@@ -303,3 +303,4 @@
 ## 2023-12-16 18:37:36 - feat(ui): create ui handler (4/20)
 ## 2024-01-28 23:38:57 - feat(build): add build endpoint (15/20)
 ## 2024-02-03 22:29:01 - feat(monitor): create monitor handler (10/20)
+## 2024-03-01 09:51:55 - feat(auth): create auth handler
