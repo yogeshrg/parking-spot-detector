@@ -305,3 +305,4 @@
 ## 2024-02-03 22:29:01 - feat(monitor): create monitor handler (10/20)
 ## 2024-03-01 09:51:55 - feat(auth): create auth handler
 ## 2024-03-09 18:09:25 - feat(ui): create ui handler (13/20)
+## 2024-03-09 21:13:04 - feat(alert): implement alert module (2/20)
