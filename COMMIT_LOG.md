@@ -251,3 +251,4 @@
 ## 2026-05-07 22:24:13 - feat(deploy): add deploy support
 ## 2026-05-09 12:59:12 - feat(build): add build support (9/20)
 ## 2026-08-29 23:33:22 - feat(worker): implement worker module (13/20)
+## 2026-09-20 14:22:58 - feat(core): add core endpoint (20/20)
